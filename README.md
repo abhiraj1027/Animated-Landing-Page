@@ -18,6 +18,10 @@ A visually engaging animated webpage built with **HTML**, **CSS**, and **GSAP**.
 | CSS3       | Styling and layout                     |
 | GSAP       | JavaScript animation library           |
 
+## 🖥️ Preview
+
+<img width="1467" alt="Screenshot 2025-06-07 at 8 01 01 PM" src="https://github.com/user-attachments/assets/f1f06398-c762-4648-aab8-dccc63c27816" />
+
 ## 📁 Project Structure
 
 ```
